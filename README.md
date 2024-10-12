@@ -4,7 +4,7 @@ This project focuses on identifying transition ictal waves in epileptic EEG data
 
 ## Features
 - **Data Processing:** Utilizes EEG datasets to extract relevant features for classification.
-- **Multiple Models:** Implements various machine learning models, including SVM, Logistic Regression, KNN, Naive Bayes, and a Deep Learning ANN.
+- **Multiple Models:** Implements various machine learning models, including SVM, Logistic Regression, KNN, Naive Bayes,PCA, Linear Regression and a Deep Learning ANN.
 - **Visualization:** Provides visualizations of the EEG signals and model accuracy across different kernel types.
 
 ## Prerequisites
